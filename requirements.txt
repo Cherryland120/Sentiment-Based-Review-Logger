@@ -1,0 +1,15 @@
+jupyterlab_pygments~=0.3.0
+pip~=24.3.1
+attrs~=25.4.0
+tornado~=6.5.4
+Jinja2~=3.1.6
+numpy~=1.26.4
+setuptools~=44.1.1
+pytz~=2025.2
+overrides~=7.7.0
+charset-normalizer~=3.4.4
+cffi~=2.0.0
+packaging~=25.0
+torchtext~=0.17.2
+torch~=2.2.2
+pandas~=2.3.3
